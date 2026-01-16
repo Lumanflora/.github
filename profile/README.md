@@ -1,9 +1,3 @@
-## Hi there 👋
+## Lumanflora - Builds bioluminescent, IoT-connected trees that light cities and power living displays. 👋
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+Lumanflora is a biotech-driven innovation company redefining how cities light, power, and communicate through nature. By combining CRISPR-based bioluminescent plants with IoT technology, Lumanflora creates living trees that glow at night, store solar energy, and display dynamic colors for decoration and advertising. Designed for smart cities, public spaces, and sustainable brands, Lumanflora transforms plants into interactive, energy-aware infrastructure—where nature becomes light, power, and media.
